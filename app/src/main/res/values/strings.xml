@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheoSandbox</string>
+    <string name="coming_up_next">Coming Up Next: TBA</string>
+    <string name="bottom_bar_item_social">Social</string>
+</resources>

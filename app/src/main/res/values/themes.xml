@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Bally.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#EC0101</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/bally_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.BallyLive</item>
+    </style>
+
+    <style name="Theme.BallyLive" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>
